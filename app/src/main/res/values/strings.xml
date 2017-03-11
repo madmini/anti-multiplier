@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Anti-Multiplier</string>
+    <string name="button_divide">Divide</string>
+    <string name="text_dividend">dividend</string>
 </resources>
