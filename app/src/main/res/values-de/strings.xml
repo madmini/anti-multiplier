@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Anti-Multiplier</string>
-    <string name="button_divide">Dividieren</string>
-    <string name="text_dividend">Dividend</string>
+    <string name="text_denominator">Nenner</string>
+    <string name="text_numerator">Zähler</string>
+    <string name="text_result">Quotient</string>
+    <string name="text_formatError">= NaN</string>
 </resources>

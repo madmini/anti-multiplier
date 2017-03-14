@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Anti-Multiplier</string>
-    <string name="button_divide">Divide</string>
-    <string name="text_dividend">dividend</string>
+    <string name="text_denominator">denominator</string>
+    <string name="text_numerator">numerator</string>
+    <string name="text_result">result</string>
+    <string name="stdVal_denominator" translatable="false">2</string>
+    <string name="stdVal_numerator" translatable="false">1</string>
+    <string name="text_formatError">= NaN</string>
 </resources>
